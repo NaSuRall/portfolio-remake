@@ -1,0 +1,40 @@
+Couleur principale (fond du site) : #0A1F2D (bleu très foncé)
+Cyan lumineux pour les accents et les boutons : #00C9C9
+Teal clair pour les arrière-plans semi-transparents : #137A7F avec une opacité de 80% environ.
+Texte principal (blanc ou gris clair) : #E0E0E0
+Gris clair pour les cartes de projet : #293B47
+Cyan pâle pour les arrière-plans des champs de formulaire : #A8E8E8
+Bleu profond pour le pied de page : #09141C
+
+
+
+1. Cinzel
+
+    Style : Cinzel a un style élégant et classique avec un léger aspect "gravé" qui rappelle les anciennes écritures, parfait pour un effet à la fois moderne et mystérieux.
+    Usage : Utilisez-la pour les titres et les menus.
+    Lien Google Fonts : Cinzel
+
+2. Poppins
+
+    Style : Moderne et arrondie, cette police est très lisible et convient bien pour le texte principal ou les descriptions.
+    Usage : Idéal pour les paragraphes et les descriptions de projets. Elle apporte un côté propre et minimaliste en contraste avec l’arrière-plan mystique.
+    Lien Google Fonts : Poppins
+
+3. Playfair Display
+
+    Style : Avec ses empattements fins et son aspect élégant, elle évoque un style à la fois classique et sophistiqué.
+    Usage : Convient bien pour les titres ou les en-têtes dans une section « À propos » ou pour le nom du site.
+    Lien Google Fonts : Playfair Display
+
+4. Lora
+
+    Style : Lora a un aspect un peu poétique et doux, idéal pour renforcer un thème un peu rêveur ou mystique.
+    Usage : Parfait pour le texte des paragraphes, les descriptions de projet et le texte de la section Contact.
+    Lien Google Fonts : Lora
+
+Combinaison suggérée
+
+    Titres et menus : Cinzel ou Playfair Display
+    Texte des paragraphes et descriptions : Poppins ou Lora
+
+
